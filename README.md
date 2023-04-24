@@ -1,2 +1,2 @@
 # PVSS-solidity-verify-
-BN128
+use eth-BN128 verify in ganache
